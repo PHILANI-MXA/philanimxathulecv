@@ -7,6 +7,7 @@
     <AboutC/>
     <Clone/>
     <ProView/>
+    <TestimonialView/>
     <ContactView/>
     <FooterComp/>
 
@@ -23,12 +24,13 @@ import AboutV from './views/aboutV.vue';
 import AboutC from './views/AboutC.vue';
 import Clone from './views/clone.vue';
 import ContactView from './views/contactView.vue';
+import TestimonialView from './views/TestimonialView.vue';
 
 
 
 export default {
     name: "",
-    components: { NavComp, FooterComp, HomeView, AboutView, ProView, AboutV, AboutC, Clone, ContactView }
+    components: { NavComp, FooterComp, HomeView, AboutView, ProView, AboutV, AboutC, Clone, ContactView, TestimonialView }
 }
 
 </script>
