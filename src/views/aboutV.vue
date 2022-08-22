@@ -41,9 +41,9 @@
 <hr>
 </div>
 </div>
-<div class="col-md-2">
+<div class="col-md-1">
 </div>
-<div class="col-md-6">
+<div class="col-md-7">
 <div class="">
 <h4 class="text-black">Bachelor of Library and Information Science 2019-2022</h4><h6 class="text-black">University of the Western Cape</h6>
     <p class="text-black">3rd year level</p>
