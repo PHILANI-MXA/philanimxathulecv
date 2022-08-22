@@ -39,6 +39,8 @@
 <li>Proactive</li>
 <li>Multi-tasking</li>
 <li>Good planning skills</li>
+<li>Report writing skills</li>
+<li>Record keeping skills</li>
 </ul>
 
 </div>
