@@ -6,11 +6,11 @@
  <div class=" h-100 text-center">
             <div class=" text-black text-center">
                 <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-indicators">
+                    <div class="carousel-indicators bg-black">
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" aria-label="Slide 1" class="nav-circle active" aria-current="true"></button>
-                        <button id="nav-circle-center" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2" class="nav-circle"></button>
+                        <button id="nav-circle-center bg-black" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2" class="nav-circle"></button>
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3" class="nav-circle"></button>
-                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4" class="nav-circle"></button>
+                        <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="3" aria-label="Slide 4" class="nav-circle "></button>
                         <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="4" aria-label="Slide 5" class="nav-circle"></button>
                     </div>
                     <div class="carousel-inner py-lg-5">
