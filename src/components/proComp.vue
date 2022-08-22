@@ -1,5 +1,5 @@
 <template>
-<div id="projects" class="container vh-100 overflow-auto">
+<div id="projects" class="container h-100 overflow-auto">
 <div class="row  justify-content-between">
 <div v-for="card in projects" class="col-md-4 card d-flex gy-3">
 <div>
