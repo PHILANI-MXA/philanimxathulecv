@@ -1,5 +1,6 @@
 <template>
-  <div id="home" class="container-fluid min-vh-100 my-5 p-4 w-100">
+  <div id="home" class="container-fluid min-vh-100  row d-flex justify-content-center my-5 p-5 mr-20">
+
   </div>
 </template>
 
@@ -13,14 +14,21 @@ export default {
 
 <style scoped>
 .container-fluid{
-  background-attachment: fixed;
-  background-position: fixed;
-  background: url(https://i.postimg.cc/7hnVt6gX/tai-s-captures-r5k-TKshp22-M-unsplash.jpg) center
-   center/cover !important;
-  min-width: 100%;
+    background-attachment: fixed;
+    background-position: fixed;
+    background: url() center
+    center/cover !important;
+    min-width: 100%;
 }
 
-
+.img-circle{
+    align-items: center !important;
+    width: 80%;
+    height: 80%;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 500px;
+}
 
 
 
