@@ -31,39 +31,38 @@
 </div>
 </div>
 </div>
-                    </div>
+</div>
 </div>
 <div class="col-md-6">
                        <h5 class="text-center text-decoration-none my-2 bg-black text-white">Contact me</h5>
  <form class="w-100 text-black float-start align-items-start" action="https://formspree.io/f/xyyobvab" method="post">
-                                <div class="row my-2">
-                                    <label for="name" class="col-md-1 col-form-label-lg fs-5 text-black"> Name</label>
-                                    <div class="col-2"></div>
-                                    <div class="col-8">
-                                        <input id="name" name="name" type="text" placeholder="Enter your name" class="form-control">
-                                    </div>
-                                </div>
-                                <div class="row my-2">
-                                    <label for="Your location" class="col-md-1 col-form-label-lg fs-5 text-black"> Location</label>
-                                    <div class="col-2"></div>
-                                    <div class="col-8">
-                                        <input id="location" name="location" type="text" placeholder="Enter your location" class="form-control">
-                                    </div>
-                                </div>
-                                <div class="row my-2">
-                                    <label for="time" class="col-md-1 col-form-label-lg fs-5 text-black"> Time</label>
-                                    <div class="col-2"></div>
-                                    <div class="col-8">
-                                        <input id="time" name="time" type="time" placeholder="When do you need me?" class="form-control">
-                                    </div>
-                                </div>
-                                <div class="row my-1">
-                                    <label for="gender" class="col-md-1 col-form-label-lg fs-5 text-black">Company </label>
-                                    <div class="col-2"></div>
-                                    <div class="col-8 col-md-6">
-                                    
-                                        <span class="ms-3 text-black">Private Company <input type="radio" id="private" name="company" required></span> <div class="col"><span>
-                                        <span class="ms-3 text-black"> Public Company <input type="radio" id="public" name="company" required></span></span></div>
+<div class="row my-2">
+<label for="name" class="col-md-1 col-form-label-lg fs-5 text-black"> Name</label>
+<div class="col-2"></div>
+<div class="col-8">
+    <input id="name" name="name" type="text" placeholder="Enter your name" class="form-control">
+</div>
+</div>
+<div class="row my-2">
+<label for="Your location" class="col-md-1 col-form-label-lg fs-5 text-black"> Location</label>
+<div class="col-2"></div>
+<div class="col-8">
+    <input id="location" name="location" type="text" placeholder="Enter your location" class="form-control">
+</div>
+</div>
+<div class="row my-2">
+<label for="time" class="col-md-1 col-form-label-lg fs-5 text-black"> Time</label>
+<div class="col-2"></div>
+<div class="col-8">
+    <input id="time" name="time" type="time" placeholder="When do you need me?" class="form-control">
+</div>
+                </div>
+                <div class="row my-1">
+            <label for="gender" class="col-md-1 col-form-label-lg fs-5 text-black">Company </label>
+            <div class="col-2"></div>
+            <div class="col-8 col-md-6">
+                <span class="ms-3 text-black">Private Company <input type="radio" id="private" name="company" required></span> <div class="col"><span>
+                <span class="ms-3 text-black"> Public Company <input type="radio" id="public" name="company" required></span></span></div>
             </div>
         </div>
         <div class="row">
