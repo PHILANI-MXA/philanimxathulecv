@@ -1,10 +1,11 @@
 <template>
   <div id="home" class="container h-100 p-5 my-5 d-flex m-auto d-flex justify-content-center align-items-center">
-    <div class="row m-auto">
-      <div class="col-md-2"></div>
-    <div class="col-md-8 d-flex justify-content-center align-items-center">
-      <img class="img-fluid m-auto" src="https://i.postimg.cc/yxrqP3cZ/Whats-App-Image-2022-09-30-at-10-07-12-AM.jpg" alt=""></div>
-    <div class="col-md-2"></div>
+    <div class="row">
+      <div class="col-md-2"><hr><hr></div>
+    <div class="col-md-8 d-flex justify-content-center align-items-center"><h6 class="fw-bold">Aspiring</h6>
+      <img class="img-fluid m-auto" src="https://i.postimg.cc/yxrqP3cZ/Whats-App-Image-2022-09-30-at-10-07-12-AM.jpg" alt="">
+    <h6 class="fw-bold">Fullstack<br>Developer</h6></div>
+    <div class="col-md-2"><hr><hr></div>
   </div>
 
 
