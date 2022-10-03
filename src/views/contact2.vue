@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-4"></div>
             <div class="col-md-8">
-                <form action="https://formspree.io/f/meqdeker" method="post">
+                <form action="https://formspree.io/f/xpznrrpd" method="post">
                     <h1>Contact me</h1>
                     <fieldset>
                         <legend><span class="number">1</span> Your Information</legend>
