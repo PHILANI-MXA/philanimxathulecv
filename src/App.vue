@@ -5,6 +5,7 @@
   <AboutV/>
   <AboutC/>
   <Clone/>
+  <Testimonials22/>
   <Contact2/>
   <FooterComp />
 </template>
@@ -22,8 +23,6 @@ import ContactView from './views/contactView.vue';
 import TestimonialView from './views/TestimonialView.vue';
 import Contact2 from './views/contact2.vue';
 import Testimonials22 from './views/Testimonials22.vue';
-
-
 
 export default {
   name: "",
