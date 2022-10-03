@@ -1,5 +1,5 @@
 <template>
-  <div id="about" class="container text-start h-100 justify-content-between overflow-auto">
+  <div id="work" class="container text-start h-100 justify-content-between overflow-auto">
     <h2 class="text-center bg-black my-2 p-3 fw-bolder">Work Experience</h2>
     <div class="row">
       <div class="col-md-12">
@@ -11,7 +11,6 @@
               <h6>SOMS: [CRU] Corporate Relations Unit </h6>
               <p>Duties: Human Resource Admin Support Working with Persal system under the following fields Housing
                 Leave administration PAY interns payslip processing Overtime, Performance Management </p>
-
             </div>
             <hr>
             <div>

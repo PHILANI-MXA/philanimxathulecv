@@ -1,5 +1,5 @@
 <template>
-    <div class="container min-h-100 py-4">
+    <div id="contact" class="container min-h-100 py-4">
         <div class="row">
             <h2 class="text-center bg-black my-2 p-3 fw-bolder">Contact</h2>
             <div class="col-4"></div>

@@ -1,10 +1,10 @@
 <template>
-  <NavComp />
-  <HomeView />
-  <AboutView />
-  <AboutV />
-  <AboutC />
-  <Clone />
+  <NavComp/>
+  <HomeView/>
+  <AboutView/>
+  <AboutV/>
+  <AboutC/>
+  <Clone/>
   <Contact2/>
   <FooterComp />
 </template>

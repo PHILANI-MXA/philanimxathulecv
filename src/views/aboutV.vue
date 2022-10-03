@@ -1,5 +1,5 @@
 <template>
-    <div id="about" class="container text-start h-100 justify-content-between overflow-auto">
+    <div id="education" class="container text-start h-100 justify-content-between overflow-auto">
         <h2 class="text-center bg-black my-2 p-3 fw-bolder">Education</h2>
         <div class="row">
             <div class="col-md-4">
