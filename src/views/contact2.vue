@@ -4,7 +4,7 @@
             <div class="col-4"></div>
             <div class="col-md-8">
                 <form action="https://formspree.io/f/xpznrrpd" method="post">
-                    <h1>Contact me</h1>
+                    <h2 class="text-center bg-black my-2 p-3 fw-bolder">Contact</h2>
                     <fieldset>
                         <legend><span class="number">1</span> Your Information</legend>
                         <label for="name">Name:</label>
@@ -29,7 +29,7 @@
         </div>
     </div>
     <div class="col-md-2"></div>
-    
+
 </template>
   
 <script>
@@ -84,6 +84,7 @@ select {
     height: 32px;
     border-radius: 2px;
 }
+
 button {
     padding: 19px 39px 18px 39px;
     color: #FFF;
