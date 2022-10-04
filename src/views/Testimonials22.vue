@@ -1,5 +1,5 @@
 <template>
-  <div class="container h-100 p-3 ">
+  <div id="testimonials" class="container h-100 p-3 ">
     <h2 class="text-center bg-black my-5 p-3 fw-bolder">Testimonials</h2>
     <div class="row p-4">
       <div class="col-md-12">
@@ -22,39 +22,39 @@
                 <div class="carousel-item active">
                   <div class="carousel-con-custom">
                     <img class="pics img-fluid" src="https://i.postimg.cc/1Xqq4J2C/joel2.jpg" alt="Joel carousel">
-                    <h5 class="my-3">Joel Mukanya</h5><br><br>
-                    <h6>Coding Lecture</h6><br><br>
-                    <p class="text-wrap">
+                    <h5 class="my-3">Joel Mukanya</h5>
+                    <h6>Coding Lecture</h6><br>
+                    <p class="text-wrap">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quos!
                     </p>
                   </div>
                 </div>
                 <div class="carousel-item">
                   <img class="pics img-fluid" src="https://i.postimg.cc/kXryQrjr/Sibongile-2.jpg"
                     alt="Sibongile carousel">
-                  <h5 class="my-3">Sibongile Rwayi</h5><br><br>
-                  <h6>Collegues</h6><br><br>
-                  <p class="text-wrap"></p>
+                  <h5 class="my-3">Sibongile Rwayi</h5>
+                  <h6>Collegues</h6><br>
+                  <p class="text-wrap">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Enim?</p>
                 </div>
                 <div class="carousel-item">
                   <img class="pics img-fluid" src="https://i.postimg.cc/g0pyf3Cg/Silizwe-2.jpg"
                     alt="Siliziwe Pani carousel">
-                  <h5 class="my-3">Silizwe Pani</h5><br><br>
-                  <h6>Collegues</h6><br><br>
-                  <p class="text-wrap"></p>
+                  <h5 class="my-3">Silizwe Pani</h5>
+                  <h6>Collegues</h6><br>
+                  <p class="text-wrap">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat?</p>
                 </div>
                 <div class="carousel-item">
                   <img class="pics img-fluid" src="https://i.postimg.cc/1XDdybhR/Khanyiswa-2.jpg"
                     alt="Khanyiswa Ntenqa carousel">
-                  <h5 class="my-3">Khanyiswa Ntenqa</h5><br><br>
-                  <h6>Collegues</h6><br><br>
-                  <p class="text-wrap"></p>
+                  <h5 class="my-3">Khanyiswa Ntenqa</h5>
+                  <h6>Collegues</h6><br>
+                  <p class="text-wrap">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla.</p>
                 </div>
                 <div class="carousel-item">
                   <img class="pics img-fluid" src="https://i.postimg.cc/DZLSFN1s/Godwin22.jpg"
                     alt="Khanyiswa Ntenqa carousel">
-                  <h5 class="my-3">Godwin</h5><br><br>
-                  <h6>Senior Lecture</h6><br><br>
-                  <p class="text-wrap"></p>
+                  <h5 class="my-3">Godwin</h5>
+                  <h6>Senior Lecture</h6><br>
+                  <p class="text-wrap">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Optio!</p>
                 </div>
               </div>
             </div>
@@ -73,7 +73,6 @@ img {
   aspect-ratio: 1;
   border-radius: 50%;
   object-fit: cover;
-  object-position: 0 0px;
   margin: auto;
 }
 

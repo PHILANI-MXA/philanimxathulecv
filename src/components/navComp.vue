@@ -10,8 +10,8 @@
                     <li class="nav-item"><a class="nav-link text-white" href="#education">Education</a></li>
                     <li class="nav-item"><a class="nav-link text-white" href="#work">Experience</a></li>
                     <li class="nav-item"><a class="nav-link text-white" href="#skills">Skills</a></li>
-                    <!-- <li class="nav-item"><a class="nav-link text-white" href="#projects">Projects</a></li>
-                    <li class="nav-item"><a class="nav-link text-white" href="#testimonials">Testimonials</a></li> -->
+                    <!-- <li class="nav-item"><a class="nav-link text-white" href="#projects">Projects</a></li> -->
+                    <li class="nav-item"><a class="nav-link text-white" href="#testimonials">Testimonials</a></li>
                     <li class="nav-item"><a class="nav-link text-white" href="#contact">Contact</a></li>
                 </ul>
             </div>

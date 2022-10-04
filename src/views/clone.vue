@@ -150,8 +150,10 @@
                         </div>
                     </div>
                 </div>
+            </div><br><br>
+            <div class="text-center">
+                <button >Projects and Certificates</button>
             </div>
-
         </div>
         <hr>
     </div>

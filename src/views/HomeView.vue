@@ -9,7 +9,7 @@
         <h6 class="fw-bold">Aspiring <br>
           <hr>
         </h6>
-        <img class="img-fluid m-auto" src="https://i.postimg.cc/yxrqP3cZ/Whats-App-Image-2022-09-30-at-10-07-12-AM.jpg"
+        <img class="img-fluid m-auto" src="https://i.postimg.cc/gcDTptXY/IMG-7581.jpg"
           alt="">
         <h6 class="fw-bold">Fullstack<br>Developer
           <hr>
@@ -36,8 +36,9 @@ export default {
 img {
   border-radius: 50%;
   height: 60%;
-  aspect-ratio: 0;
+  aspect-ratio: 1;
   margin: auto;
   background-position: center;
+  object-fit: cover;
 }
 </style>
