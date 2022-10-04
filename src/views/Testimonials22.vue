@@ -1,6 +1,6 @@
 <template>
   <div id="testimonials" class="container h-100 p-3 ">
-    <h2 class="text-center bg-black my-5 p-3 fw-bolder">Testimonials</h2>
+    <h2 class="text-center bg-black my-5 p-3 fw-bolder text-white">Testimonials</h2>
     <div class="row p-4">
       <div class="col-md-12">
         <div class=" h-100 text-center">

@@ -20,7 +20,7 @@
                             <li>CSS certificate</li>
                             <li>Javascript certificate</li>
                             <li>SQL certificate</li>
-                            <li>Python certicates (beginner, intermediate and core)</li>
+                            <li>Python certicates (beginner, intermediate, Python core, Python data structures and data Science)</li>
                         </ol>
                     </div>
                 </div>
